@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Hello-Eddy
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify and NETFLIX starter project.'
+subtitle: ' Welcome to the ultimate Hello-Eddy site.'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
